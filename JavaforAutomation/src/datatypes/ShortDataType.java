@@ -10,6 +10,7 @@ public class ShortDataType {
 		short year = 2020;
 		
 		System.out.println( "Short Data Type Value is: " + year);
+		System.out.println( "Short Data Type Value is exit: " );
 
 	}
 
